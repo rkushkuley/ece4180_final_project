@@ -9,24 +9,24 @@ Huy Hoang
 Our team wanted to demonstrate the capability of Bluetooth, motor, and sensor technology, that were learned during class, and demonstrate it in a robot car. With this robot car, users are able to use the Bluefruit Connect app to control the robot car and also receive live temperature readings from the robot car.
 
 ## **Parts List**
-	mbed LPC1768
+mbed LPC1768
 
-	Motor Driver - Dual TB6612FNG (with Headers)
+Motor Driver - Dual TB6612FNG (with Headers)
 
-	Adafruit Bluefruit LE UART Friend
+Adafruit Bluefruit LE UART Friend
 
-	Wheel - 65mm (rubber, tire, pair)
+Wheel - 65mm (rubber, tire, pair)
 
-	DC Barrel Jack Adapter
+DC Barrel Jack Adapter
 
-	Shadow Chasis Motor Pair
+Shadow Chasis Motor Pair
 
-	4xAA battery holder with barrel jack connector
+4xAA battery holder with barrel jack connector
 
-	Jumper wires 
+Jumper wires 
 
-	TMP36 Temp Sensor
+TMP36 Temp Sensor
 
-	Breadboard 
+Breadboard 
 
 
