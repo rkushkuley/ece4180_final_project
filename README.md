@@ -29,4 +29,5 @@ TMP36 Temp Sensor
 
 Breadboard 
 
-
+## **Hardware**
+![Circuit layout](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/99583743a0df4e598afe1985432b0a25.jpeg)
