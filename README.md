@@ -1,7 +1,7 @@
 # ECE 4180 Final Project- Bluetooth Controlled Car
 Team members:
 Tim Felbinger, 
-Ron Kushkuley,
+Ronnie Kushkuley,
 Richard Nguyen,
 Huy Hoang 
 
@@ -45,8 +45,11 @@ This platform could easily be scaled to include more sensor streams, but we were
 
 ## **Hardware**
 ![Circuit layout](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/d52c6b54f8de4dbab1ec039f81881e83.jpeg)
+
+Picture of robot circuit layout
 ![Circuit layout w/ lights](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/5931e52af6d94578ace75bd15a531765.jpeg)
 
+Picture of the robot running the bluefruit connector app
 ## **Wiring Diagram**
 The wiring for the various parts to the MBed can be found below:
 
