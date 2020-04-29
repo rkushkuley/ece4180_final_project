@@ -41,7 +41,7 @@ This platform could easily be scaled to include more sensor streams, but we were
 
 * 4xAA batteries
 
-* smartphone with Wifi connection
+* Smartphone with Wifi connection
 
 ## **Hardware**
 ![Circuit layout](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/d52c6b54f8de4dbab1ec039f81881e83.jpeg)
