@@ -5,6 +5,9 @@ Ron Kushkuley,
 Richard Nguyen,
 Huy Hoang 
 
+## **Presentation**
+https://www.youtube.com/watch?v=yoLinDj2jbA&feature=emb_title
+
 ## **Project Description**
 Our team wanted to demonstrate the capability of Bluetooth, motor, and sensor technology, that were learned during class, and demonstrate it in a robot car. With this robot car, users are able to use the Bluefruit Connect app to control the robot car and also receive live temperature readings from the robot car.
 
