@@ -1,4 +1,4 @@
-# ECE 4180 Final Project- Bluetooth Controlled Car
+# ECE 4180 Final Project - Bluetooth Controlled Car
 Team members:
 Tim Felbinger, 
 Ron Kushkuley,
