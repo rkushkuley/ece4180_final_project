@@ -79,6 +79,7 @@ The wiring for the various parts to the MBed can be found below:
 ![Snippet](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/snip.png)
 
 * This is a snippet of our code that was used during this projec that can be found in this GitHub.
+
 For Software setup, import the code into the mbed website. We modified some parts of the code from our labs and others reference for our code into our project. You must download the BlueFruit app from the app store for ios users and google play for android users. Hit the first unknown that pops up to connect to the Adafruit Bluefruit LE part. The blue light should blink. Once connected in the app, then go to the control pad tab to access the control pad.
 
 
