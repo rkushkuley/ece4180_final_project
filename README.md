@@ -34,7 +34,8 @@ Our team wanted to demonstrate the capability of Bluetooth, motor, and sensor te
 * smartphone with Wifi connection
 
 ## **Hardware**
-![Circuit layout](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/99583743a0df4e598afe1985432b0a25.jpeg)
+![Circuit layout](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/d52c6b54f8de4dbab1ec039f81881e83.jpeg)
+![Circuit layout w/ lights](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/5931e52af6d94578ace75bd15a531765.jpeg)
 
 ## **Wiring Diagram**
 The wiring for the various parts to the MBed can be found below:
