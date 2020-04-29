@@ -94,7 +94,10 @@ For Software setup, import the code into the mbed website. We modified some part
 
 ## **References**
  [My Mini Race Car](https://learn.adafruit.com/my-mini-race-car?view=all)
+ 
  [LM61 and TMP36 Analog Temperature Sensors](https://os.mbed.com/users/4180_1/notebook/lm61-analog-temperature-sensor/)
- [Bluefruit LE Connect for iOS and Android](https://learn.adafruit.com/bluefruit-le-connect/controller)
- [Robot Control Using Bluetooth Xbox Controller](https://os.mbed.com/users/carlislejonah/notebook/robot-control-using-bluetooth-xbox-controller/)
+
+[Bluefruit LE Connect for iOS and Android](https://learn.adafruit.com/bluefruit-le-connect/controller)
+
+[Robot Control Using Bluetooth Xbox Controller](https://os.mbed.com/users/carlislejonah/notebook/robot-control-using-bluetooth-xbox-controller/)
 
