@@ -80,8 +80,15 @@ The wiring for the various parts to the MBed can be found below:
 
 * This is a snippet of our code that was used during this projec that can be found in this GitHub.
 
-![ControlPad](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/Control%20pad.PNG)
 
-* Screenshot of the Control Pad on the Bluefruit Connect app
 
-For this project, we decided to integrate parts of the Bluetooth sample and motor control code that were utilized in previous labs. We also implemented lines of code to allow the Bluefruit Connect app to receive live temperature readings from the bot. With some changes to and implementing the code, we got our finished result.
+## **Block Diagram**
+
+
+
+
+## **Demo Video**
+
+
+
+## **References**
