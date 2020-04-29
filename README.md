@@ -9,64 +9,31 @@ Huy Hoang
 Our team wanted to demonstrate the capability of Bluetooth, motor, and sensor technology, that were learned during class, and demonstrate it in a robot car. With this robot car, users are able to use the Bluefruit Connect app to control the robot car and also receive live temperature readings from the robot car.
 
 ## **Parts List**
-mbed LPC1768
+-[mbed LPC1768](https://www.sparkfun.com/products/9564)
 
-Motor Driver - Dual TB6612FNG (with Headers)
+-[Motor Driver - Dual TB6612FNG (with Headers)](https://www.sparkfun.com/products/1445)
 
-Adafruit Bluefruit LE UART Friend
+-[Adafruit Bluefruit LE UART Friend](https://www.adafruit.com/product/2479)
 
-Wheel - 65mm (rubber, tire, pair)
+-[Wheel - 65mm (rubber, tire, pair)](https://www.sparkfun.com/products/13259)
 
-DC Barrel Jack Adapter
+-[DC Barrel Jack Adapter](https://www.sparkfun.com/products/10811)
 
-Shadow Chasis Motor Pair
+-[Shadow Chasis Motor Pair](https://www.sparkfun.com/products/13302)
 
-4xAA battery holder with barrel jack connector
+-[4xAA battery holder with barrel jack connector](https://www.sparkfun.com/products/9835)
 
-Jumper wires 
+-[Jumper wires](https://www.sparkfun.com/products/11026) 
 
-TMP36 Temp Sensor
+-[TMP36 Temp Sensor](https://www.sparkfun.com/products/10988)
 
-Breadboard 
+-[Breadboard](https://www.sparkfun.com/products/12614) 
+
+-4xAA batteries
+
+-smartphone with Wifi connection
 
 ## **Hardware**
 ![Circuit layout](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/99583743a0df4e598afe1985432b0a25.jpeg)
 
-## **Wiring Diagram**
-The wiring for the various parts to the MBed can be found below:
 
-#### **Mbed with Motor Driver**
-
-| Motor Driver | Mbed |
-| ------------- | ------------- |
-| VM  | + |
-| GND  | -  |
-| A01  | Left Motor (Black) |
-| A02  | Left Motor (Red)  |
-| B02  | Right Motor (Red)  |
-| B01  | Right Motor (Black)  |
-| GND  | -  |
-| PWMA  | P21  |
-| AI2  | P23  |
-| AI1  | P22  |
-| STBY  | +  |
-| BI1  | P25  |
-| BI2  | P26  |
-| PWMB  | P24  |
-| GND  | GND  |
-
-#### **Mbed with Adafruit BLE**
-| Adafruit BLE  | Mbed |
-| ------------- | ------------- |
-| GND  | -  |
-| VIN  | +  |
-| RX1  | P28 |
-| TX0  | P27  |
-| CTS  | -  |
-
-#### **Med with LM61**
-| LM61  | Mbed |
-| ------------- | ------------- |
-| GND  | -  |
-| VS  | +  |
-| VOUT  | 15  |
