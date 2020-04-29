@@ -5,6 +5,12 @@ Ron Kushkuley,
 Richard Nguyen,
 Huy Hoang 
 
+## **Presentation**
+https://www.youtube.com/watch?v=yoLinDj2jbA&feature=emb_title
+
+## **Demonstration Video**
+https://youtu.be/yoLinDj2jbA?t=203
+
 ## **Project Description**
 Our team wanted to create a robotic platform that can be used for a wide array of measurement tasks using the Bluetooth, motor, and sensor technology that were learned during class. 
 
