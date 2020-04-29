@@ -109,9 +109,6 @@ For this project, we decided to integrate parts of the Bluetooth sample and moto
 5. Open the app then hit on the first Unknown full wifi bar
 6. Go to the control pad and sensors tab to control the robot
 
-
-## **Block Diagram**
-
 ## **Future Additions & Revisions**
 * Within the Control Pad of the Bluefruit app, we can customize the 4 buttons to make the robot car do certain actions that the user deems reasonable.
 * Add several more sensors to the robot for it to collect data beyond just temperature as shown in this project
