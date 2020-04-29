@@ -8,6 +8,9 @@ Huy Hoang
 ## **Presentation**
 https://www.youtube.com/watch?v=yoLinDj2jbA&feature=emb_title
 
+## **Demo Video**
+https://youtu.be/yoLinDj2jbA?t=207
+
 ## **Project Description**
 Our team wanted to demonstrate the capability of Bluetooth, motor, and sensor technology, that were learned during class, and demonstrate it in a robot car. With this robot car, users are able to use the Bluefruit Connect app to control the robot car and also receive live temperature readings from the robot car.
 
@@ -88,10 +91,6 @@ For Software setup, import the code into the mbed website. We modified some part
 
 ## **Block Diagram**
 
-
-
-
-## **Demo Video**
 
 
 
