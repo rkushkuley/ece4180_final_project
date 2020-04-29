@@ -18,6 +18,8 @@ With this robot car, users are able to use the Bluefruit Connect app to control 
 
 This platform could easily be scaled to include more sensor streams, but we were working with limited hardware availability due to COVID-19.
 
+![Robot Car](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/5.png)
+
 ## **Parts List**
 * [mbed LPC1768](https://www.sparkfun.com/products/9564)
 
