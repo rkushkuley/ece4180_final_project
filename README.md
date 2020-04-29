@@ -87,6 +87,10 @@ For this project, we decided to integrate parts of the Bluetooth sample and moto
 
 * This is a snippet of our code that was used during this projec that can be found in this GitHub.
 
+![Control Pad](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/Control%20pad.PNG)
+
+* This is the control pad utilized to control the robot
+
 1. Import files and code onto the [mbed compiler website](https://os.mbed.com/)
 2. Upload to mbed and compile the main.cpp file
 3. Connect the mbed device and upload the main.cpp file onto the mbed
