@@ -98,11 +98,10 @@ For this project, we decided to integrate parts of the Bluetooth sample and moto
 
 ## **Block Diagram**
 
-
-
-
-## **Demo Video**
-
+## **Future Additions & Revisions**
+* Within the Control Pad of the Bluefruit app, we can customize the 4 buttons to make the robot car do certain actions that the user deems reasonable.
+* Add several more sensors to the robot for it to collect data beyond just temperature as shown in this project
+* Motor and drive system could be scaled to work with larger applications
 
 
 ## **References**
