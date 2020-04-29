@@ -92,7 +92,7 @@ For this project, we decided to integrate parts of the Bluetooth sample and moto
 3. Connect the mbed device and upload the main.cpp file onto the mbed
 4. Wait for the led blink indicating that the file has successfully been uploaded and push the button on the mbed
 4. Download the app called Bluefruit Connect app to either [ios](https://apps.apple.com/us/app/bluefruit-connect/id830125974) or [android](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&hl=en_US) smartphones
-5. Open the app then hit on the first Unknown wifi bar
+5. Open the app then hit on the first Unknown full wifi bar
 6. Go to the control pad and sensors tab to control the robot
 
 
