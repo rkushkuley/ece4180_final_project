@@ -6,7 +6,11 @@ Richard Nguyen,
 Huy Hoang 
 
 ## **Project Description**
-Our team wanted to demonstrate the capability of Bluetooth, motor, and sensor technology, that were learned during class, and demonstrate it in a robot car. With this robot car, users are able to use the Bluefruit Connect app to control the robot car and also receive live temperature readings from the robot car.
+Our team wanted to create a robotic platform that can be used for a wide array of measurement tasks using the Bluetooth, motor, and sensor technology that were learned during class. 
+
+With this robot car, users are able to use the Bluefruit Connect app to control the robot car and also receive live temperature readings from the robot car.
+
+This platform could easily be scaled to include more sensor streams, but we were working with limited hardware availability due to COVID-19.
 
 ## **Parts List**
 * [mbed LPC1768](https://www.sparkfun.com/products/9564)
