@@ -5,12 +5,6 @@ Ron Kushkuley,
 Richard Nguyen,
 Huy Hoang 
 
-## **Presentation**
-https://www.youtube.com/watch?v=yoLinDj2jbA&feature=emb_title
-
-## **Demo Video**
-https://youtu.be/yoLinDj2jbA?t=207
-
 ## **Project Description**
 Our team wanted to demonstrate the capability of Bluetooth, motor, and sensor technology, that were learned during class, and demonstrate it in a robot car. With this robot car, users are able to use the Bluefruit Connect app to control the robot car and also receive live temperature readings from the robot car.
 
@@ -40,8 +34,7 @@ Our team wanted to demonstrate the capability of Bluetooth, motor, and sensor te
 * smartphone with Wifi connection
 
 ## **Hardware**
-![Circuit layout](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/d52c6b54f8de4dbab1ec039f81881e83.jpeg)
-![Circuit layout w/ lights](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/5931e52af6d94578ace75bd15a531765.jpeg)
+![Circuit layout](https://github.com/rkushkuley/ece4180_final_project/blob/master/images/99583743a0df4e598afe1985432b0a25.jpeg)
 
 ## **Wiring Diagram**
 The wiring for the various parts to the MBed can be found below:
@@ -87,11 +80,19 @@ The wiring for the various parts to the MBed can be found below:
 
 * This is a snippet of our code that was used during this projec that can be found in this GitHub.
 
-For Software setup, import the code into the mbed website. We modified some parts of the code from our labs and others reference for our code into our project. You must download the BlueFruit app from the app store for ios users and google play for android users. Hit the first unknown that pops up to connect to the Adafruit Bluefruit LE part. The blue light should blink. Once connected in the app, then go to the control pad tab to access the control pad.
+1. Import files and code onto the [mbed website](https://os.mbed.com/)
+2. Download the file and upload to mbed.
+3. Download the app called Bluefruit Connect app to either ios or android smartphones
+4. Open the app then hit on the first Unknown wifi bar
+5. Go to the control pad and sensors tab to control the robot
 
 
 ## **Block Diagram**
 
+
+
+
+## **Demo Video**
 
 
 
